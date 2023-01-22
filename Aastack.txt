@@ -1,0 +1,9 @@
+Single Activity (Fragments), Multithreading, 
+Multiprocess WorkManager Google services,
+ Huawei services,  Open street map, firebase,
+ restful api,android view, clean architecture,
+ solid
+Знает сети (tcp/udp, sip);
+ci/cd
+RxKotlin
+custom view или compound view;
